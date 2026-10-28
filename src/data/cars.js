@@ -32,7 +32,7 @@ export const cars = [
     zeroToHundred: '3,9 s',
     transmission: 'Automático',
     price: 2190,
-    image: 'https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1400&q=85',
+    image: 'https://images.pexels.com/photos/33940050/pexels-photo-33940050.jpeg?auto=compress&cs=tinysrgb&w=1400',
     tag: 'Performance',
   },
   {
