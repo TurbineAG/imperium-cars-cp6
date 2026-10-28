@@ -44,7 +44,7 @@ export const cars = [
     zeroToHundred: '5,7 s',
     transmission: 'Automático',
     price: 2590,
-    image: 'https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?auto=format&fit=crop&w=1400&q=85',
+    image: 'https://images.pexels.com/photos/11558248/pexels-photo-11558248.jpeg?auto=compress&cs=tinysrgb&w=1400',
     tag: 'Conforto premium',
   },
   {
