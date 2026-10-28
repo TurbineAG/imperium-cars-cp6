@@ -28,6 +28,16 @@ npm run build
 - `src/components/CarCard.jsx`
 - Rotas definidas em `src/App.jsx`
 
+## Distribuição de tarefas (Checkpoint 6)
+Projeto individual — Felipe Ilek (RM 571322) atuou como desenvolvedor e Tech Lead.
+
+| Tarefa | Branch | Pull Request | Commits |
+| --- | --- | --- | --- |
+| 1. Configuração e limpeza do projeto | `chore/setup-project` | #1 → `dev` | 4 |
+| 2. Componentes (navbar, footer, card) | `feat/componentes` | #2 → `dev` | 4 |
+| 3. Páginas (home, Carros) e rotas | `feat/pages-rotas` | #3 → `dev` | 4 |
+| Validação e merge final | `dev` → `main` | #4 | — |
+
 ## Identificação
 - **Aluno:** Felipe Ilek
 - **RM:** 571322
