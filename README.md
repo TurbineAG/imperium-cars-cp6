@@ -38,6 +38,9 @@ Projeto individual — Felipe Ilek (RM 571322) atuou como desenvolvedor e Tech L
 | 3. Páginas (home, Carros) e rotas | `feat/pages-rotas` | #3 → `dev` | 4 |
 | Validação e merge final | `dev` → `main` | #4 | — |
 
+## Deploy
+- Produção (Vercel): https://imperium-cars-cp6.vercel.app
+
 ## Identificação
 - **Aluno:** Felipe Ilek
 - **RM:** 571322
