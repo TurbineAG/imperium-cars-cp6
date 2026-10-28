@@ -56,7 +56,7 @@ export const cars = [
     zeroToHundred: '3,1 s',
     transmission: 'S tronic',
     price: 4990,
-    image: 'https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&w=1400&q=85',
+    image: 'https://images.pexels.com/photos/12351517/pexels-photo-12351517.jpeg?auto=compress&cs=tinysrgb&w=1400',
     tag: 'Edição especial',
   },
   {
