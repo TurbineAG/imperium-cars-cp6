@@ -8,7 +8,7 @@ export const cars = [
     zeroToHundred: '4,1 s',
     transmission: 'PDK',
     price: 2890,
-    image: 'https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1400&q=85',
+    image: 'https://images.pexels.com/photos/30237930/pexels-photo-30237930.jpeg?auto=compress&cs=tinysrgb&w=1400',
     tag: 'Mais reservado',
   },
   {
