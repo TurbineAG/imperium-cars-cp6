@@ -8,7 +8,7 @@ export const cars = [
     zeroToHundred: '4,1 s',
     transmission: 'PDK',
     price: 2890,
-    image: 'https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1400&q=85',
+    image: 'https://images.pexels.com/photos/30237930/pexels-photo-30237930.jpeg?auto=compress&cs=tinysrgb&w=1400',
     tag: 'Mais reservado',
   },
   {
@@ -32,7 +32,7 @@ export const cars = [
     zeroToHundred: '3,9 s',
     transmission: 'Automático',
     price: 2190,
-    image: 'https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1400&q=85',
+    image: 'https://images.pexels.com/photos/33940050/pexels-photo-33940050.jpeg?auto=compress&cs=tinysrgb&w=1400',
     tag: 'Performance',
   },
   {
@@ -44,7 +44,7 @@ export const cars = [
     zeroToHundred: '5,7 s',
     transmission: 'Automático',
     price: 2590,
-    image: 'https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?auto=format&fit=crop&w=1400&q=85',
+    image: 'https://images.pexels.com/photos/11558248/pexels-photo-11558248.jpeg?auto=compress&cs=tinysrgb&w=1400',
     tag: 'Conforto premium',
   },
   {
@@ -56,7 +56,7 @@ export const cars = [
     zeroToHundred: '3,1 s',
     transmission: 'S tronic',
     price: 4990,
-    image: 'https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&w=1400&q=85',
+    image: 'https://images.pexels.com/photos/12351517/pexels-photo-12351517.jpeg?auto=compress&cs=tinysrgb&w=1400',
     tag: 'Edição especial',
   },
   {
